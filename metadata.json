@@ -1,0 +1,6 @@
+{
+  "name": "Gallery - Plantilla Web de Arte",
+  "description": "Plantilla web editorial de exhibición artística diseñada para artistas contemporáneos y galerías.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
